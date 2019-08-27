@@ -1,0 +1,48 @@
+﻿腐蚀与防护部分 第12行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+腐蚀与防护部分 第30行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
+没有找到名字为“固态去耦合器” 的表 腐蚀与防护部分 第45行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+腐蚀与防护部分 第62行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
+没有找到名字为“极性排流器” 的表 腐蚀与防护部分 第77行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+腐蚀与防护部分 第91行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
+腐蚀与防护部分 第106行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+腐蚀与防护部分 第124行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
+没有找到名字为“辅助阳极” 的表 腐蚀与防护部分 第139行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+腐蚀与防护部分 第159行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
+没有找到名字为“恒电位仪” 的表 腐蚀与防护部分 第174行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+腐蚀与防护部分 第200行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
+没有找到名字为“阴极保护电位传送器” 的表 腐蚀与防护部分 第215行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+腐蚀与防护部分 第236行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
+没有找到名字为“绝缘接头保护器” 的表 腐蚀与防护部分 第251行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+腐蚀与防护部分 第269行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:

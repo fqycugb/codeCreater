@@ -1,0 +1,12 @@
+﻿没有找到名字为“钢管” 的表 线路材料部分 第12行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+线路材料部分 第34行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
+没有找到名字为“感应加热弯管” 的表 线路材料部分 第49行的字段名在数据库中不唯一,还有如下：
+列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
+列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
+线路材料部分 第71行的字段名在数据库中不唯一,还有如下：
+列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
+列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
