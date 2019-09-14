@@ -1,6 +1,0 @@
-﻿没有找到名字为“不间断电源” 的表 供配电部分 第12行的字段名在数据库中不唯一,还有如下：
-列名:PIPELINE_CODE 数据类型:VARCHAR(8)必填:true查询:true阈值:
-列名:PIPELINE_ID 数据类型:varchar(36)必填:false查询:true阈值:
-供配电部分 第44行的字段名在数据库中不唯一,还有如下：
-列名:REMARK 数据类型:varchar(1024)必填:false查询:false阈值:
-列名:REMARKS 数据类型:varchar(1024)必填:false查询:false阈值:
